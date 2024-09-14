@@ -2,8 +2,8 @@
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
  
-url0 = ''
-url1 = ''
+url0 = 'https://youtu.be/NNYn8vQea14'
+url1 = 'https://youtu.be/6Pti2fFwgJ0'
 
 urls = [url0,url1]
 for url in urls:
